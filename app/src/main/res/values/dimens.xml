@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_radius">15dp</dimen>
+    <dimen name="height_tablayout">50dp</dimen>
+    <dimen name="height_tab_unselected">45dp</dimen>
+    <dimen name="height_tab_selected">50dp</dimen>
+</resources>
